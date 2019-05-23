@@ -2,3 +2,5 @@
 Gasyori100knock-master
 *.ipynb
 */answers_cpp
+__pycache__/
+
